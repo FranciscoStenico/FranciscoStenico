@@ -1,4 +1,4 @@
-## Olá! Sou o Francisco Stenico, desenvolvedor JavaScript Full-Stack!
+## Olá! Sou o Francisco Stenico, profissional em desenvolvimento Full-Stack!
 
 <div align="center">
   <a href="https://github.com/FranciscoStenico">
