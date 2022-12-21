@@ -1,5 +1,8 @@
 ## Olá! Sou o Francisco Stenico, profissional em desenvolvimento Full-Stack!
 
+NOTA: Devido a grande parte dos projetos desenvolvidos por mim terem sido desenvolvido dentro da organização da escola em que estudo e tambem dos mesmos serem obrigatóriamente setados com a visibilidade "interna", não constarão aqui no portfólio. Porém, seguem alguns dados referentes a minha stack de tecnologias logo abaixo.
+Para mais informações, entre em contato através de meu email ou linkedIn que terei prazer em me apresentar mais detalhadamente!
+
 <div align="center">
   <a href="https://github.com/FranciscoStenico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoStenico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
