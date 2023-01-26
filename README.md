@@ -1,7 +1,13 @@
-## Olá! Sou o Francisco Stenico, profissional em desenvolvimento Full-Stack!
+## Olá! Sou Francisco Stenico, profissional em desenvolvimento Full-Stack!
+#### *Hey you! My name is Francisco Stenico, Full-Stack Development professional!*
 
-NOTA: Devido a grande parte dos projetos desenvolvidos por mim terem sido desenvolvido dentro da organização da escola em que estudo e tambem dos mesmos serem obrigatóriamente setados com a visibilidade "interna", não constarão aqui no portfólio. Porém, seguem alguns dados referentes a minha stack de tecnologias logo abaixo.
-Para mais informações, entre em contato através de meu email ou linkedIn que terei prazer em me apresentar mais detalhadamente!
+Dentre minhas principais stacks, estão:
+- Desenvolvimento frontend de qualidade utilizando os principais frameworks JavaScript;
+  ##### *High quality frontend development using the main JavaScript frameworks*
+- Desenvolvimento de APIs Restful, utilizando diversos frameworks em NodeJS, Python e Java;
+  ##### *Restful APIs development, using several frameworks in NodeJS, Python and Java*
+- Fácil aprendizado e vontade de me manter atualizado com relação as tecnologias mais relevantes do mercado;
+  ##### *Easy learning and willingness to keep me updated with the most relevant technologies on the market*
 
 <div><br>
   <img alt="Francisco-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
