@@ -1,4 +1,4 @@
-## Hey you! My name is Francisco Stenico, Full-Stack Development professional!
+## Hey you! My name is Francisco Stenico, full-stack development professional!
 
 What do I have to offer?
 - High quality frontend development using the main JavaScript frameworks;
