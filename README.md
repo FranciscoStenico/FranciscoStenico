@@ -5,14 +5,23 @@
   <a href="https://www.linkedin.com/in/franciscostenico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-  <h3>Hey there <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20" /> Welcome to my personal repository!</h3>
-  <p><em>Nice to meet yout! My name is Francisco Stenico and I'm full-stack web development professional!</em></p>
+  <h2>Hey there <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20" /> Welcome to my personal repository!</h2>
 </div>
 
-What do I have to offer?
+___
+### **About me**
+
+*I am a full-stack web developer from Brazil*
+- 💻 I'm working with front-end development using ReactJS and VTEX as frameworks.
+- 🌱 Currently studying Java SpringBoot.
+- 🤓 In my spare time, I learn and improve new technologies.
+- 🫀 Software development passionate.
+___
+### **What do I have to offer?**
 - High quality frontend development using the main JavaScript frameworks;
 - Restful APIs development, using several frameworks in NodeJS, Python and Java;
 - Easy learning and willingness to keep me updated with the most relevant technologies on the market;
+___
 
 <a href="https://github.com/FranciscoStenico?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscostenico&layout=compact&bg_color=45,000,012,023&title_color=cf0d&text_color=fff&border_color=023&icon_color=cf0&ring_color=ef0&langs_count=10" />
