@@ -15,7 +15,7 @@ ___
 - 💻 I'm working with front-end development using ReactJS and VTEX as frameworks.
 - 🌱 Currently studying Java SpringBoot.
 - 🤓 In my spare time, I learn and improve new technologies.
-- 🫀 Software development passionate.
+- ❤️ Software development passionate.
 ___
 ### **What do I have to offer?**
 - High quality frontend development using the main JavaScript frameworks;
