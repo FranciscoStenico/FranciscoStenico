@@ -5,6 +5,13 @@ What do I have to offer?
 - Restful APIs development, using several frameworks in NodeJS, Python and Java;
 - Easy learning and willingness to keep me updated with the most relevant technologies on the market;
 
+<a href="https://github.com/FranciscoStenico?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscostenico&layout=compact&bg_color=45,000,012,023&title_color=cf0d&text_color=fff&border_color=023&icon_color=cf0&ring_color=ef0" />
+</a>
+<a href="https://github.com/FranciscoStenico?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscostenico&show_icons=true&bg_color=45,000,012,023&title_color=cf0e&text_color=fffe&border_color=023&icon_color=cf0e&ring_color=ef0" />
+</a>
+
 <div><br>
   <img alt="Francisco-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Francisco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
