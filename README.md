@@ -1,13 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="http://techkart.tech/wp-content/uploads/2020/06/webdesign12.gif" width="100"/>
   <div align="center">
     <a href = "mailto:francisco.stenico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franciscostenico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   <h2>Hey there! Welcome to my repository </h2>
+  <h3><em>My name is Francisco Stenico, full-stack development professional!</em></h3>
 </div>
-
-#### *My name is Francisco Stenico, full-stack development professional!*
 
 What do I have to offer?
 - High quality frontend development using the main JavaScript frameworks;
