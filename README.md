@@ -5,9 +5,8 @@
   <a href="https://www.linkedin.com/in/franciscostenico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-## Hey there ![Wave Emoji GIF](https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif)  Welcome to my personal repository!
-  
-  <h3><em>Nice to meet yout! My name is Francisco Stenico and I'm full-stack web development professional!</em></h3>
+  <h3>Hey there <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="32" /> Welcome to my personal repository!</h3>
+  <p><em>Nice to meet yout! My name is Francisco Stenico and I'm full-stack web development professional!</em></p>
 </div>
 
 What do I have to offer?
