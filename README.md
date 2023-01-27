@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/franciscostenico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-## Nice to meet yout! My name is Francisco Stenico and I'm full-stack web development professional!
+## Hey there ![Wave Emoji GIF](https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif)  Welcome to my personal repository!
   
   <h3><em>Nice to meet yout! My name is Francisco Stenico and I'm full-stack web development professional!</em></h3>
 </div>
