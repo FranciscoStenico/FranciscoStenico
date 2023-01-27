@@ -1,4 +1,11 @@
-## Hey you! My name is Francisco Stenico, full-stack development professional!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <a href = "mailto:francisco.stenico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franciscostenico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <h2>Hey there! Welcome to my repository </h2>
+</div>
+
+#### *My name is Francisco Stenico, full-stack development professional!*
 
 What do I have to offer?
 - High quality frontend development using the main JavaScript frameworks;
@@ -29,6 +36,5 @@ What do I have to offer?
   ##
   
 <div>
-  <a href = "mailto:francisco.stenico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/franciscostenico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 </div>
