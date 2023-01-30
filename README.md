@@ -43,6 +43,7 @@ ___
   <img alt="Francisco-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Francisco-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img alt="Francisco-Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+  <img alt="Francisco-Svelte" height="30" width="40" src="https://companieslogo.com/img/orig/VTEX-64045aa2.png?t=1635881259" />
 </div>
   
   ##
