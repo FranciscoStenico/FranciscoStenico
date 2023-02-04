@@ -25,6 +25,17 @@ ___
 ___
 
 <!--START_SECTION:waka-->
+
+```text
+From: 28 January 2023 - To: 04 February 2023
+
+Total Time: 42 hrs 55 mins
+
+Java         19 hrs 46 mins  ████████████-------------   46.07 %
+CSS          11 hrs 12 mins  ███████------------------   26.13 %
+Other        9 hrs 52 mins   ██████-------------------   23.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/FranciscoStenico?tab=repositories">
