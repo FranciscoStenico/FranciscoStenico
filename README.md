@@ -11,8 +11,8 @@
 ___
 ### **About me**
 
-*I am a full-stack web developer from Brazil*
-- 💻 I'm working with front-end development using ReactJS and VTEX as frameworks.
+*I'm a software developer from Brazil*
+- 💻 I'm currently working with full-stack development.
 - 🌱 Currently studying Java SpringBoot.
 - 🤓 In my spare time, I learn and improve new technologies.
 - ❓ Ask me about TypeScript, React, Express and Django.
