@@ -13,7 +13,7 @@ ___
 
 *I'm a software developer from Brazil*
 - 💻 I'm currently working with full-stack development.
-- 🌱 Currently studying Java SpringBoot.
+- 🌱 Currently studying AngularJS.
 - 🤓 In my spare time, I learn and improve new technologies.
 - ❓ Ask me about TypeScript, React, Express and Django.
 - ❤️ Software development passionate.
