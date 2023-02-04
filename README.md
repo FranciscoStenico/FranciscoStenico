@@ -24,6 +24,9 @@ ___
 - Easy learning and willingness to keep me updated with the most relevant technologies on the market;
 ___
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/FranciscoStenico?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscostenico&layout=compact&bg_color=45,000,012,023&title_color=cf0d&text_color=fff&border_color=023&icon_color=cf0&ring_color=ef0&langs_count=8" />
 </a>
