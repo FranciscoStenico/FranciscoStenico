@@ -27,13 +27,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
-Total Time: 42 hrs 55 mins
+Total Time: 43 hrs 2 mins
 
-Java         19 hrs 46 mins  ████████████-------------   46.07 %
-CSS          11 hrs 12 mins  ███████------------------   26.13 %
-Other        9 hrs 52 mins   ██████-------------------   23.00 %
+Java         19 hrs 46 mins  ███████████--------------   45.95 %
+CSS          11 hrs 12 mins  ███████------------------   26.06 %
+Other        9 hrs 52 mins   ██████-------------------   22.94 %
 ```
 
 <!--END_SECTION:waka-->
