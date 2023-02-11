@@ -27,15 +27,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
-Total Time: 7 hrs 46 mins
+Total Time: 7 mins
 
-Java         5 hrs 17 mins   █████████████████--------   68.04 %
-CSS          1 hr 1 min      ███----------------------   13.22 %
-Properties   25 mins         █------------------------   05.41 %
-YAML         23 mins         █------------------------   04.97 %
-Other        15 mins         █------------------------   03.37 %
+YAML   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
